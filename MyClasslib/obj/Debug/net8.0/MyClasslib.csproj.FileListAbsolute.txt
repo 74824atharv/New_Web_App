@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\bin\Debug\net8.0\MyClasslib.deps.json
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\bin\Debug\net8.0\MyClasslib.dll
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\bin\Debug\net8.0\MyClasslib.pdb
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\obj\Debug\net8.0\MyClasslib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\obj\Debug\net8.0\MyClasslib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\obj\Debug\net8.0\MyClasslib.AssemblyInfo.cs
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\obj\Debug\net8.0\MyClasslib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\obj\Debug\net8.0\MyClasslib.dll
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\obj\Debug\net8.0\refint\MyClasslib.dll
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\obj\Debug\net8.0\MyClasslib.pdb
+C:\Users\IET\Desktop\dotnetMyproject\MyClasslib\obj\Debug\net8.0\ref\MyClasslib.dll
