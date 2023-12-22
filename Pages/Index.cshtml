@@ -1,0 +1,30 @@
+﻿@page
+@using HR
+@model IndexModel
+@{
+    movie m=new movie();
+    m.mname="Animal";
+    m.hero="Bobby Deol";
+    m.director="Atharva sudame";
+    m.song="jamaloo jamaloo";
+    ViewData["Title"] = "Movie details";
+}
+
+<div class="text-center">
+
+    <h1 class="display-4">Welcome</h1>
+    <p>Movie : @m.mname</p>
+        <p>Hero : @m.hero</p>
+
+    <p>Director : @m.director</p>
+
+    <p>Song : @m.song</p>
+
+<audio controls>
+ 
+  <source src="Song.mp3" type="audio/mp3">
+
+</audio>
+
+    
+</div>
